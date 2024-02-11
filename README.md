@@ -22,11 +22,6 @@ Introduce random changes (mutations) to the genetic material (weights and biases
 the population.
 For each individual in the population, evaluate the fitness using the perceptron with the corresponding
 weights and biases. Use a dataset to measure the performance of the perceptron.
-COMSATS University, Islamabad
-Department of Computer Science
-
-Second Sessional Examination Fall-2019
-
 Repeat the selection, crossover, and mutation steps for a number of generations. Over time, the
 population should evolve to contain individuals with increasingly better sets of weights and biases.
 After a certain number of generations, select the individual with the highest fitness as the best solution.
